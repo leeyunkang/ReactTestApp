@@ -9,7 +9,7 @@ ReactNativeApp/*.key
 ReactNativeApp/*.mobileprovision
 ReactNativeApp/*.orig.*
 ReactNativeApp/web-build/
-server/node_modules/
+
 # macOS
 ReactNativeApp/.DS_Store
 
